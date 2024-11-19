@@ -36,7 +36,7 @@ const Home: FC = () => {
             </a>
           </div>
         </div>
-        <div className='my-4 rounded-full bg-primary shadow'>
+        <div className='my-4 rounded-full bg-primary shadow w-96 h-96 flex m-auto'>
           <Image
             className='rounded-full'
             src='/profile.png'
