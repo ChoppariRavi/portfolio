@@ -11,6 +11,12 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        dark: "var(--dark)",
+        secondary: "var(--secondary)",
+        primary: "var(--primary)",
+        lowPriority: "var(--lowPriority)",
+        lightColor: "var(--lightColor)",
+        White: "var(--White)",
       },
     },
   },
